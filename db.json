@@ -1,0 +1,214 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Кроссовки Adidas Yeezy Boost 700",
+            "price": 19.999,
+            "description": "Enflame Amber/Orange",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/d39/500_500_1/aevbcf4x8yaravsiqrogklqb8qswmv2b.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Кроссовки ASICS GT-II",
+            "price": 17.999,
+            "description": "Синий",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/501/500_500_1/wl2xpt053zvxre5n7xp0tq2505aj4qyg.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Кроссовки Adidas Yeezy QNTM Quantum",
+            "price": 20.999,
+            "description": "Frozen Blue/Frozen Blue",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/f6f/500_500_1/qz7851dzkvey6q0x8648jadeyen73o4r.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Кроссовки ASICS HS4-S Gel-Sonoma 15-50 Gore-Tex",
+            "price": 21.999,
+            "description": "Зеленый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/d32/500_500_1/ma29241g5pnxggtludli34go8doqxr0p.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Кроссовки New Balance 327",
+            "price": 18.999,
+            "description": "Grey/White",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/4eb/500_500_1/n0w2041nk25kxbf5363hez2ib0ovlcs2.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Кроссовки Streetbeat Fellow",
+            "price": 5.199,
+            "description": "Темно-синий",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/f42/500_500_1/946rd96glf2jl0fkhl9pk0lllzz1a4s6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Кроссовки Nike Dunk High Chocolate",
+            "price": 19.999 ,
+            "description": "Коричневый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/5ee/500_500_1/5ee07fee4a8b62acebec2f7008abfa70.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Кроссовки Reebok x Kung-Fu Panda Zig Kinetica",
+            "price": 7.699,
+            "description": "Арт. GZ8641",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/8ac/500_500_1/8ac2aa89d1e4c804d4570f16cee88bae.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Кроссовки adidas Top Ten",
+            "price": 10.499,
+            "description": "Cloud White / Chalk White / Cloud White",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/680/500_500_1/680b8ba284b209657eff03a023c00566.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Кроссовки Reebok Zig Kinetica Edge",
+            "price": 7.799 ,
+            "description": "Арт. GY3575",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/237/500_500_1/ss7bxw73ho6v7j8p1n1u05pza91843cu.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Кроссовки ASICS Above the Clouds Skycourt",
+            "price": 16.999,
+            "description": "Бежевый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/446/500_500_1/szirkp9mzkdpoqkq029lscz8w3c81ij7.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Кроссовки Streetbeat Hood Keeper",
+            "price": 4.499,
+            "description": "Желтый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/377/500_500_1/6y9yor169udk8zilefaprwlk03nw9vx8.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Кроссовки Jordan Air Jordan 1 KO Syracuse",
+            "price": 19.999,
+            "description": "Orange/White",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/707/500_500_1/707f168b022cf6f1fba8ceb9edd8116e.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Кроссовки Streetbeat Woodstone",
+            "price": 6.499,
+            "description": "Черный",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/1bd/500_500_1/67uimnmo83e3q37lg5k9xbknkdby39jm.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Кроссовки adidas NY 90",
+            "price": 8.999,
+            "description": "Белый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/5bd/500_500_1/5bd50fc12c333a1289fb91762e5ad731.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Кроссовки PUMA 180",
+            "price": 13.999,
+            "description": "White/Black",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/a47/500_500_1/z15gk831h2yxkz612cm7znod7vie72bv.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Кроссовки Salomon Alphacross 4",
+            "price": 13.299,
+            "description": "Multi",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/fa9/500_500_1/mwe5or4zze2dron868nr9svvbzwxufv2.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Кроссовки Salomon Supercross 4",
+            "price": 14.599,
+            "description": "Black",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/42e/500_500_1/o17rtwmuarminqwua5405t4uftsfjl0u.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Кроссовки PUMA Court Rider",
+            "price": 13.999,
+            "description": "Chaos Slash",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/2ce/500_500_1/dcozty2fc2u209k7k3ti9ot8lh77nngo.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Кроссовки HUGO GO1ST Pume",
+            "price": 16.999,
+            "description": "White",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/4d9/500_500_1/xx90xxja765mz7731xey1rpx634btma6.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Кроссовки PUMA Slipstream lth",
+            "price": 11.999,
+            "description": "White/Black",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/764/500_500_1/7647d57ff21802cac3a5fc9b91117ade.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Кроссовки The North Face Vectiv Taraval",
+            "price": 12.399,
+            "description": "White/Black",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/bc4/500_500_1/669ahin0p0b9ngmo4fl9zoiopdhj2ttu.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Кроссовки ASICS Gel-Lyte III OG",
+            "price": 18.999,
+            "description": "Оранжевый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/68e/500_500_1/k75aqu9jjmh7mjyceat1bv7wmef2om0c.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Кроссовки Reebok x Looney Tunes Club C 85",
+            "price": 7.699,
+            "description": "Бежевый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/da0/500_500_1/da05981baef4b9751aa5bebf4ce80bb3.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Кроссовки PUMA Suede Classic XXI",
+            "price": 6.299,
+            "description": "Pristine/Parisian Nigh",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/ba5/500_500_1/imwxx58y9pple13hxa98o14z3cxxbdlw.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Кроссовки Streetbeat Tornado",
+            "price": 4.799,
+            "description": "Темно-синий",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/c6e/500_500_1/v6d3d9mnzp8ngj7sq5a8pezxab1qxi38.jpg"
+        },
+        {
+            "id": 27,
+            "title": "Кроссовки Salomon Supercross 4 GORE-TEX®",
+            "price": 18.399,
+            "description": "Black",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/300/500_500_1/30031c072ca441fb7881829881149b59.jpg"
+        },
+        {
+            "id": 28,
+            "title": "Кроссовки ASICS Gel-Nimbus 9",
+            "price": 21.999,
+            "description": "Серый",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/f28/500_500_1/jcyq3u8zfdwfrwmglusgzfgizxvyyjkl.jpg"
+        },
+        {
+            "id": 29,
+            "title": "Кроссовки Salomon X Ultra 4 GORE-TEX®",
+            "price": 19.299,
+            "description": "Black/Vinkha/Vanila",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/cb7/500_500_1/cb7a8a848f114055060037ef9850c4dd.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Кроссовки Salomon Spikecross 3 ClimaSalomon",
+            "price": 21.599,
+            "description": "Black/Radian/White",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/9d0/500_500_1/9d024206a07509437d1af13daa06d33d.jpg"
+        }
+    ]
+}
